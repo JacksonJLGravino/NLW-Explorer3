@@ -1,6 +1,6 @@
 # NLW RocketCoffe
 
-Projeto de um cardapio feito na maratona explorer
+Projeto de um cardápio feito na maratona Explorer
 
 <img src="Capa.png" />
 
